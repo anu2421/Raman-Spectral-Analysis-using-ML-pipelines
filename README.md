@@ -74,4 +74,4 @@ Python, NumPy, SciPy, pandas, scikit-learn, statsmodels, matplotlib
 
 ## Author
 
-Anukriti. Contact: <add email / LinkedIn>
+Anukriti Jaya Sinha (B.Tech'27 IIT Roorkee). Contact: anukriti_js@bt.iitr.ac.in
