@@ -1,0 +1,21 @@
+# raw and generated data -- never commit unpublished lab spectra
+data/A549/
+data/K562/
+
+results/
+*.csv
+!docs/**/*.csv
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
